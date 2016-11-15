@@ -17,6 +17,6 @@
 		"homebridge": ">=0.2.5"
 	},
 	"dependencies": {
-		"wink-js": ">=0.1.0 <1.0.0"
+		"wink-js": "https://github.com/tekuonline/wink-js.git"
 	}
 }
